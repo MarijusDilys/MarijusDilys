@@ -1,4 +1,4 @@
-# Labas! 👋
+# Labass! <img src="https://github.com/wlonkly/slackmojis/raw/master/emoji/blob/blob-wave-gif.gif?raw=true" width="30"/>
 
 <p style="justify-content: center">
     <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
