@@ -1,4 +1,4 @@
-<h1>Labass! <img src="https://github.com/wlonkly/slackmojis/raw/master/emoji/blob/blob-wave-gif.gif?raw=true" width="45"/></h1>
+<h1>Labass! <img src="https://emojis.slackmojis.com/emojis/images/1643514476/4594/blob-wave.gif?1643514476" width="30"/></h1>
 
 <p style="justify-content: center">
     <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
